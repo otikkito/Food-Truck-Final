@@ -1,0 +1,67 @@
+.centerMenu{
+  text-align: center;
+  width: 1200px;
+}
+
+.headerMenuTxtColor{
+  
+   color: orange;
+}
+.h3-wrap-sides-color{
+    color: red;
+}
+
+.main-container{
+background-image: url('https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+
+body{
+
+ color: white;
+}
+#nav-main{
+  color:black;
+}
+
+.image-gallery{
+  display: flex;
+  justify-content: wrap;
+}
+
+.image-gallery img{
+  padding: 8px;
+}
+
+.center-icon-copyright{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+/* Javascipt ids and classes */
+#foodTruckIcon{
+    opacity: 0;
+}
+
+#fibQuartMenu{
+  opacity: 0;
+}
+
+#mathFavSecImg{
+   opacity: 0;
+}
+
+#fibLocation{
+   opacity: 0;
+}
+#fibHours{
+  opacity: 0;
+}
+.darktext{
+  color: black;
+}

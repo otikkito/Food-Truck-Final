@@ -1,0 +1,15 @@
+$('#foodTruckIcon').animate({
+  opacity:1
+  },8000)
+$('#fibQuartMenu').animate({
+  opacity:1
+  },8000)
+$('#mathFavSecImg').animate({
+  opacity:1
+  },8000)
+$('#fibLocation').animate({
+  opacity:1
+  },8000)
+$('#fibHours').animate({
+  opacity:1
+  },8000)
